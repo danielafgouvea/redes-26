@@ -1,0 +1,9 @@
+Atividade INDIVIDUAL - Semana 7 - Redes de Computadores
+
+Em uma folha de caderno, responda as questões, tire foto para subir no AVA e entregar para professora a atividade.
+
+Responda:
+1) O que faz a camada física em uma rede?
+2) Qual a diferença entre codificação e modulação?
+3) Cite dois equipamentos da camada física.
+4) Dê um exemplo do dia a dia onde usamos transmissão de dados.
