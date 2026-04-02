@@ -1,0 +1,103 @@
+Trabalho Investigativo – Projeto de Rede para uma Empresa
+
+Situação-problema
+
+Uma startup chamada InovaTech está abrindo um escritório e precisa de uma infraestrutura de rede eficiente e segura para permitir a comunicação entre seus equipamentos e o acesso à internet.
+
+O escritório possui:
+18 computadores para funcionários
+1 servidor interno para armazenamento de arquivos
+2 impressoras de rede acesso à internet necessidade de comunicação com uma filial em outra cidade
+
+A empresa pediu ajuda a uma equipe de técnicos em redes para projetar a melhor solução de rede possível.
+Sua equipe foi contratada para analisar a situação e propor um projeto de rede.
+
+ORIENTAÇÃO SOBRE A FORMA DE ENTREGA DO TRABALHO 
+
+O trabalho deverá ser elaborado em formato de texto discursivo, apresentando a análise e a solução proposta pelo grupo de forma organizada e explicativa.
+
+⚠️ Não é permitido responder às perguntas das etapas separadamente.
+
+As questões apresentadas no roteiro servem apenas como guia para reflexão e organização das ideias.
+O texto deve ser estruturado como um pequeno relatório técnico, contendo:
+
+Introdução – apresentação do problema da empresa e da necessidade de rede.
+Desenvolvimento – explicação da solução proposta pelo grupo (topologia, meios de transmissão, equipamentos de rede, comunicação com a filial e relação com o Modelo OSI).
+Conclusão – justificativa final explicando por que a solução escolhida é adequada para a empresa.
+
+- O trabalho deve apresentar:
+texto organizado em parágrafos
+explicações completas
+linguagem técnica simples e clara
+- Não serão aceitos trabalhos em formato de perguntas e respostas.
+
+DESAFIO DO GRUPO:
+Vocês devem investigar, discutir e propor uma solução técnica, utilizando os conceitos estudados em aula, incluindo o Modelo OSI e os meios de transmissão de dados.
+
+Etapas do trabalho
+1 – Análise do problema
+O grupo deve discutir:
+Quantos dispositivos precisam estar conectados?
+Qual tipo de rede será necessária?
+Quais são os principais desafios da empresa?
+
+2 – Proposta de infraestrutura
+A equipe deve propor uma solução explicando:
+Topologia de rede
+Escolher e justificar uma topologia:
+estrela
+barramento
+híbrida
+Explicar por que essa topologia é adequada para a empresa.
+
+Meio de transmissão
+Definir quais meios serão utilizados:
+cabo UTP
+cabo STP
+fibra óptica
+Justificar a escolha considerando:
+custo
+velocidade
+confiabilidade
+
+Equipamentos de rede
+Indicar quais equipamentos serão necessários, por exemplo:
+switch
+roteador
+access point
+Explicar a função de cada um.
+
+3 – Comunicação com a filial
+A empresa precisa compartilhar dados com a filial localizada em outra cidade.
+O grupo deve propor uma solução segura, por exemplo:
+uso de VPN
+Explicar:
+como essa conexão funcionaria
+quais seriam as vantagens.
+
+4 – Relação com o Modelo OSI
+Relacionar a solução proposta com pelo menos 3 camadas do Modelo OSI, explicando como elas participam da comunicação na rede.
+Exemplo esperado:
+Camada Física → transmissão pelos cabos
+Camada de Rede → roteamento entre redes
+Camada de Aplicação → uso de sistemas pelos funcionários
+
+Produto final
+Cada grupo deverá entregar:
+1- Diagrama da rede
+Representando:
+computadores
+servidor
+equipamentos de rede
+conexão com a internet
+conexão com a filial
+Pode ser feito em:
+papel
+PowerPoint
+Canva
+
+2- Apresentação (5 a 8 minutos)
+Explicando:
+análise do problema
+solução proposta
+justificativas técnicas
