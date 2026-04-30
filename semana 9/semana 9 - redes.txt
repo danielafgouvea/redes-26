@@ -1,0 +1,20 @@
+Atividade Prática
+
+Situação-problema
+
+Uma empresa de internet instalou fibra óptica em uma escola para melhorar a conexão 
+utilizada pelos alunos nos laboratórios.
+Depois da instalação, alguns computadores estão com internet lenta e instável.
+O técnico foi chamado para investigar.
+
+Durante a análise ele percebeu que:
+Parte da rede utiliza fibra multimodo
+Em um ponto do cabo existe uma curva muito acentuada
+O equipamento de medição mostrou perda de sinal maior que o esperado
+
+Perguntas
+1️) Explique o que é fibra óptica e como ela transmite dados.
+2️) Qual é a diferença entre fibra multimodo e monomodo?
+3️)  que é atenuação e por que ela pode acontecer?
+4️) Por que uma curvatura muito forte no cabo pode causar problemas na rede?
+5️) Qual equipamento um técnico pode usar para identificar falhas ou perdas no cabo de fibra óptica?
