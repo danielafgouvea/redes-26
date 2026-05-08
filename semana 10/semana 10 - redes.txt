@@ -1,0 +1,8 @@
+RESPONDA:
+
+1) Por que precisamos do endereço MAC se já existe endereço IP?
+2) O que aconteceria se não existisse verificação de erros na rede?
+3) Quantos dispositivos podem existir em uma mesma rede Ethernet?
+4) Por que colisões são mais difíceis de detectar em redes Wi-Fi?
+5) Por que redes modernas quase não usam mais CSMA/CD?
+6) Qual seria o impacto de muitas colisões na rede?
