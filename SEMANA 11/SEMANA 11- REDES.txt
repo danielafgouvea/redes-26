@@ -1,0 +1,8 @@
+ATIVIDADE DE REGISTRO SEMANA 11 - REDES
+1. Responda:
+a) Qual a função de um endereço IP?
+b) O que pode acontecer se dois computadores tiverem o mesmo IP?
+c) O que significa IPv4?
+d) Por que subnetting é importante?
+e) Qual a vantagem do VLSM?
+f) Onde esse conhecimento é usado no mercado de trabalho?
