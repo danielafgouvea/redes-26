@@ -1,0 +1,27 @@
+Atividade – "Detetive da LGPD"
+
+"Caso"
+Uma escola cria um sistema de cadastro de alunos:
+
+-Nome
+-CPF
+-Data de nascimento
+-Telefone
+-E-mail
+-Endereço
+-Religião
+-Problemas de saúde
+-Foto
+
+O sistema utiliza esses dados para realizar o cadastro dos alunos.
+Responder:
+1. Quem é o titular dos dados?
+2. Cite 4 dados pessoais do cadastro.
+3. Quais dados podem ser considerados sensíveis?
+4. O sistema realmente precisa de todos esses dados?
+5. Qual seria a finalidade de utilizar o telefone?
+6. Qual seria a finalidade de utilizar o e-mail?
+7. Por que a escola deveria ter cuidado especial ao tratar informações de saúde?
+8. O que significa ter uma base legal para tratar um dado?
+9. Dê um exemplo de situação em que o consentimento poderia ser utilizado.
+10. Dê um exemplo de dado que poderia ser retirado do cadastro por não ser necessário para a finalidade proposta.
