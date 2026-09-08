@@ -4,7 +4,7 @@ Atividade em dupla. Fazer em uma folha do caderno, tirar foto e entregar.
 
 Analise o seguinte cenário:
 
-A empresa Loja Digital possui uma VM com seu sistema de vendas. Na sexta-feira, a VM apresentou uma falha e o sistema ficou indisponível. A empresa possui um backup Full de domingo e backups incrementais de segunda a quinta.
+A empresa Loja Digital possui uma VM com seu sistema de vendas. Na sexta-feira, a VM (máquina virtual) apresentou uma falha e o sistema ficou indisponível. A empresa possui um backup Full de domingo e backups incrementais de segunda a quinta.
 
 Respondam:
 1. Qual é a finalidade do backup?
