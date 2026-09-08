@@ -1,0 +1,18 @@
+"A empresa sofreu um desastre"
+
+Atividade em dupla. Fazer em uma folha do caderno, tirar foto e entregar.
+
+Analise o seguinte cenário:
+
+A empresa Loja Digital possui uma VM com seu sistema de vendas. Na sexta-feira, a VM apresentou uma falha e o sistema ficou indisponível. A empresa possui um backup Full de domingo e backups incrementais de segunda a quinta.
+
+Respondam:
+1. Qual é a finalidade do backup?
+2. Qual é a diferença entre Full e Incremental?
+3. Qual backup deve ser utilizado como base para a recuperação?
+4. Quais backups incrementais seriam necessários para chegar ao estado mais recente?
+5. O que significa fazer o Restore da VM?
+6. Quem é responsável pelos dados e configurações do cliente em um ambiente de nuvem?
+7. Por que testar a recuperação de um backup é importante?
+8. O que poderia acontecer com a empresa se ela não tivesse backup?
+
