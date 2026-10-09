@@ -1,0 +1,10 @@
+Atividade – Compensação de Notas
+
+Disciplina: Redes de Computadores
+Semana 20 – Backup, Recuperação e Continuidade de Negócio
+
+1. O que é backup e por que ele é importante para uma empresa? Explique o que pode acontecer se uma empresa perder seus arquivos e como o backup pode ajudar.
+
+2. Qual é a diferença entre backup completo e backup incremental? Explique como cada um funciona e dê um exemplo.
+
+3. Imagine que uma empresa sofreu um ataque virtual e perdeu o acesso aos seus arquivos. Como a recuperação de dados pode ajudar a empresa a voltar a funcionar? Explique também por que é importante ter um plano de continuidade de negócio.
