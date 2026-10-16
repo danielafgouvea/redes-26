@@ -1,0 +1,58 @@
+Semana 22 - Redes de Computadores, Segurança e Armazenamento em Nuven
+
+Objetivo: Entender como proteger os dados pessoais dos usuários ao desenvolver sites, aplicativos e sistemas.
+
+O que é LGPD?
+A LGPD (Lei Geral de Proteção de Dados Pessoais) é a lei brasileira que estabelece regras para o uso de dados pessoais.
+Exemplo: quando um aplicativo pede seu nome, telefone, e-mail ou localização, precisa tratar essas informações de acordo com a lei.
+
+1. Direitos do titular dos dados
+
+O titular é a pessoa a quem os dados pertencem.
+A pessoa tem direitos como:
+- Saber quais dados uma empresa possui sobre ela.
+- Solicitar acesso aos seus dados.
+- Corrigir informações erradas.
+- Solicitar a exclusão de dados em situações previstas na lei.
+- Saber com quem seus dados são compartilhados.
+- Revogar o consentimento, quando o tratamento se baseia nele.
+
+Exemplo: você cadastrou seu telefone em um aplicativo e percebeu que ele está errado. Pode solicitar a correção.
+
+2. Anonimização e pseudonimização
+
+Anonimização
+É o processo de modificar os dados para que a pessoa não possa ser identificada por meios razoáveis disponíveis.
+Exemplo: uma pesquisa apresenta apenas a quantidade de estudantes que usam determinado aplicativo, sem identificar ninguém.
+
+Pseudonimização
+É substituir informações que identificam a pessoa por códigos ou identificadores. Os dados ainda podem ser associados à pessoa com informações adicionais.
+Exemplo: em vez de mostrar o nome de um aluno, um sistema utiliza o código ALU204, mas mantém uma tabela que relaciona esse código ao nome.
+
+Diferença principal: na anonimização, a identificação deve deixar de ser viável por meios razoáveis; na pseudonimização, ainda pode ser possível identificar a pessoa.
+
+3. Consentimento
+É a autorização livre, informada e inequívoca da pessoa para o uso de seus dados em determinada finalidade, quando essa for a base legal utilizada.
+Exemplo: um aplicativo pergunta se você autoriza receber mensagens promocionais por e-mail.
+- A finalidade deve estar clara.
+- A pessoa deve poder escolher livremente.
+- O consentimento pode ser revogado.
+Atenção: nem todo tratamento de dados depende de consentimento. A LGPD prevê outras bases legais, conforme a situação.
+
+4. Aviso de privacidade
+É o texto que explica como um site ou aplicativo trata os dados pessoais dos usuários.
+Deve informar, de maneira clara, aspectos como:
+- Quais dados são coletados.
+- Para que são utilizados.
+- Com quem podem ser compartilhados.
+- Por quanto tempo são mantidos, quando aplicável.
+- Como o titular pode exercer seus direitos.
+Exemplo: antes de fazer um cadastro em um aplicativo de jogos, você encontra um texto explicando como seus dados serão utilizados.
+
+Resumo para memorizar
+Conceito	        Significado	                                                           Exemplo
+Direitos do titular	Permitem controlar e consultar os próprios dados	                   Corrigir o telefone cadastrado
+Anonimização	        Impede a identificação por meios razoáveis	                           Pesquisa sem identificação individual
+Pseudonimização	        Substitui identificadores por códigos, mas permite associação adicional	   Aluno identificado por código
+Consentimento	        Autorização para uma finalidade específica	                           Aceitar receber promoções
+Aviso de privacidade	Explica como os dados são tratados	                                   Texto de privacidade de um aplicativo

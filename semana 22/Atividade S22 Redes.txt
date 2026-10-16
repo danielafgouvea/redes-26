@@ -1,0 +1,26 @@
+Atividade S22 - Redes – Protegendo os dados de um aplicativo
+
+Tempo: 20 minutos · Em duplas · Sem necessidade de computador
+
+Situação-problema
+Vocês fazem parte de uma equipe de Desenvolvimento de Sistemas que está criando um aplicativo escolar. O aplicativo solicita nome, e-mail, turma e data de nascimento dos estudantes.
+Durante a análise, a equipe percebe que precisa melhorar a proteção dos dados pessoais.
+
+Respondam às questões no caderno.
+
+1. Direitos do titular
+Um estudante percebe que seu e-mail está errado no aplicativo. Qual direito ele pode exercer e o que a equipe deve fazer?
+
+2. Anonimização
+A escola deseja divulgar um relatório com a quantidade de estudantes que utilizam o aplicativo em cada turma, sem identificar ninguém. Qual técnica pode ser utilizada? Expliquem.
+
+3. Pseudonimização
+A equipe precisa analisar os registros de uso do aplicativo sem exibir diretamente os nomes dos estudantes. Ela decide substituir os nomes por códigos, mantendo separadamente a tabela que relaciona códigos e nomes.
+- Qual técnica está sendo utilizada?
+- Por que os dados ainda precisam de proteção?
+
+4. Consentimento
+O aplicativo quer enviar propagandas de cursos aos estudantes por e-mail. Como deve proceder se utilizar o consentimento como base legal para essa finalidade?
+
+5. Aviso de privacidade
+Escrevam um aviso de privacidade curto, de duas a quatro linhas, explicando aos estudantes quais dados o aplicativo coleta, para que os utiliza e como podem solicitar a correção de informações.
