@@ -1,0 +1,44 @@
+Atividade de Redes – Semana 23: Load Balancer e Auto-scaling
+
+
+Objetivo: Completar os textos utilizando as palavras-chave estudadas durante a semana, compreendendo a função de cada recurso na nuvem.
+
+1. Banco de palavras
+Leia as palavras abaixo antes de iniciar a atividade.
+
+Palavras-chave:
+
+Load Balancer
+Auto-scaling
+Health Check
+L4
+L7
+Servidores
+Latência
+CPU
+Teste de carga
+Requisições
+
+
+2. Complete os textos
+Utilize as palavras do banco acima para preencher corretamente os espaços em branco. Algumas palavras poderão ser utilizadas mais de uma vez.
+
+Texto 1 – Distribuição de acessos
+
+Quando muitas pessoas acessam um site ao mesmo tempo, pode ocorrer uma sobrecarga nos ____________. Para evitar esse problema, utilizamos o ____________, que distribui as solicitações entre diferentes servidores, melhorando o desempenho e a disponibilidade do sistema.
+
+Texto 2 – Camadas de comunicação
+
+O balanceamento pode funcionar em duas camadas. A camada ____________ trabalha com informações como IP e portas. Já a camada ____________ analisa informações da aplicação, como endereços e tipos de requisições.
+
+Texto 3 – Verificação dos servidores
+
+Para garantir que os servidores estejam funcionando corretamente, utilizamos o ____________. Esse recurso realiza verificações e identifica quando um servidor apresenta falhas, evitando que ele continue recebendo novas solicitações.
+
+Texto 4 – Aumento e redução de recursos
+
+O ____________ permite aumentar ou diminuir automaticamente a quantidade de servidores conforme o número de acessos. Assim, quando muitos usuários entram em um site, novos ____________ podem ser adicionados para suportar a demanda.
+
+Texto 5 – Avaliação do desempenho
+
+O ____________ verifica como um sistema se comporta quando recebe muitos acessos simultâneos. Durante essa avaliação, podemos observar métricas como ____________, que mede o uso do processador, e ____________, que representa o tempo de resposta do sistema.
