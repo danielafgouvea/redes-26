@@ -1,0 +1,48 @@
+Atividade de Redes – Semana 24: Complete os textos
+
+Objetivo: Identificar e compreender as principais palavras-chave relacionadas à segurança da comunicação na nuvem.
+
+1. Banco de palavras
+
+TLS
+PKI
+Certificado digital
+Handshake
+Chave pública
+Chave privada
+Autoridade Certificadora (CA)
+mTLS
+OpenSSL
+Nginx
+Confidencialidade
+Integridade
+
+
+
+
+2. Complete os textos
+Utilize as palavras do banco para preencher os espaços. Cada palavra deve ser utilizada de acordo com o sentido da frase.
+
+Texto 1 – Comunicação segura
+
+O ____________ é um protocolo que protege a comunicação pela internet. Ele garante a ____________, impedindo que pessoas não autorizadas leiam os dados, e a ____________, evitando alterações nas informações durante a transmissão.
+
+Texto 2 – Estabelecendo uma conexão
+
+Antes de iniciar uma comunicação segura, acontece o ____________. Nesse processo, o cliente e o servidor realizam verificações e estabelecem os parâmetros necessários para iniciar uma conexão protegida.
+
+Texto 3 – Identidade digital
+
+O ____________ é utilizado para comprovar a identidade de um site, servidor ou usuário. Ele é emitido e assinado por uma entidade chamada ____________, responsável por garantir a autenticidade dos certificados.
+
+Texto 4 – Proteção por chaves
+
+Na segurança digital, existem dois tipos importantes de chaves. A ____________ pode ser compartilhada com outras pessoas, enquanto a ____________ deve permanecer protegida e em segredo.
+
+Texto 5 – Infraestrutura de segurança
+
+A ____________ é uma infraestrutura responsável pelo gerenciamento de certificados e chaves digitais. Para trabalhar com esses recursos, podemos utilizar o ____________, uma ferramenta que permite gerar chaves e certificados.
+
+Texto 6 – Autenticação mútua
+
+O ____________ é um tipo de autenticação em que tanto o cliente quanto o servidor apresentam certificados digitais para comprovar suas identidades. Essa configuração pode ser realizada em um servidor web como o ____________.
