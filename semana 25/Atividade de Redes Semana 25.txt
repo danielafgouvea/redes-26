@@ -1,0 +1,46 @@
+Atividade de Redes – Semana 25: Complete os textos
+
+Objetivo: Compreender a importância dos logs, métricas e alertas no diagnóstico de aplicações em nuvem.
+
+1. Banco de palavras
+
+Logs
+Métricas
+Alertas
+Latência
+Taxa de erro
+CPU
+Incidente
+Monitoramento
+Disponibilidade
+Registros
+
+
+
+
+2. Complete os textos
+Utilize as palavras do banco para completar corretamente as frases.
+
+Texto 1 – Acompanhamento do sistema
+
+O ____________ permite acompanhar o funcionamento de uma aplicação, identificando problemas, falhas e lentidão. Esse acompanhamento ajuda a manter a ____________ do sistema, garantindo que ele esteja acessível aos usuários.
+
+Texto 2 – Registros de acontecimentos
+
+Os ____________ são ____________ que mostram os acontecimentos dentro de um sistema. Eles ajudam a identificar erros, acessos realizados e outras atividades que podem auxiliar na investigação de problemas.
+
+Texto 3 – Medindo o desempenho
+
+As ____________ são utilizadas para medir o funcionamento de uma aplicação. Uma delas é a ____________, que representa o tempo que o sistema demora para responder a uma solicitação.
+
+Texto 4 – Identificando falhas
+
+A ____________ indica a quantidade ou o percentual de operações que apresentaram falhas. Já a ____________ indica o nível de utilização do processador de um servidor.
+
+Texto 5 – Avisando sobre problemas
+
+Os ____________ são notificações que avisam quando alguma situação está fora do esperado, como muitos erros ou lentidão em uma aplicação.
+
+Texto 6 – Investigação de problemas
+
+Quando ocorre um ____________, a equipe responsável precisa investigar o que aconteceu. Para isso, consulta os logs, analisa as métricas e verifica os alertas para encontrar a causa do problema.
